@@ -1,0 +1,10 @@
+1.0.0←ed6a955d-5826-4f98-a450-10b414266c27←ed6a955d-5826-4f98-a450-10b414266c27|{
+    "option_gameguid": "726d7a13-82d2-4421-b297-7743fc378e26",
+    "option_spine_licence": true,
+    "option_lastchanged": "12 October 2018 7:53:29",
+    "option_game_speed": 60
+}←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
+    "targets": 461609314234257646
+}←7b2c4976-1e09-44e5-8256-c527145e03bb|{
+    "targets": 461609314234257646
+}
